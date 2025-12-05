@@ -10,7 +10,7 @@ redirect_from:
 ## Brief Biography
 
 Hi, my name is Zhuoran Li. I am a Postdoctoral Research Associate at the University of Arizona.  
-My research focuses on cybersecurity, cryptography, and hardware security, with an emphasis on hardware–algorithm co-design for secure and efficient systems.
+My research focuses on cybersecurity, hardware security, cryptography, and privacy-preserving machine learning.
 
 ## Education
 
@@ -19,11 +19,12 @@ My research focuses on cybersecurity, cryptography, and hardware security, with 
 
 ## Selected Publications
 
-- **[ASP-DAC ’26]** Z. Li, H. T. Asl, Y. Cai, E. Nouri, and D. Zhao, “SilentFlow: Leveraging Trusted Execution for Resource-Limited MPC via Hardware–Algorithm Co-design,” *Asia and South Pacific Design Automation Conference*, 2026.
+- **[ASP-DAC ’26]** Z. Li, H. T. Asl, Y. Cai, E. Nouri, and D. Zhao, “SilentFlow: Leveraging Trusted Execution for Resource-Limited MPC via Hardware–Algorithm Co-design,” _Asia and South Pacific Design Automation Conference_, 2026.
 
-- **[ASP-DAC ’24]** Z. Li and D. Zhao, “DeepIncept: Diversify Performance Counters with Deep Learning to Detect Malware,” *Asia and South Pacific Design Automation Conference*, 2024.
+- **[ASP-DAC ’24]** Z. Li and D. Zhao, “DeepIncept: Diversify Performance Counters with Deep Learning to Detect Malware,” _Asia and South Pacific Design Automation Conference_, 2024.
 
-- **[DATE ’22]** Z. Li and D. Zhao, “ThingNet: A Lightweight Real-time Mirai IoT Variants Hunter through CPU Power Fingerprinting,” *Design, Automation & Test in Europe Conference & Exhibition*, 2022.
+- **[DATE ’22]** Z. Li and D. Zhao, “ThingNet: A Lightweight Real-time Mirai IoT Variants Hunter through CPU Power Fingerprinting,” _Design, Automation & Test in Europe Conference & Exhibition_, 2022.
+
 
 ## Teaching
 
