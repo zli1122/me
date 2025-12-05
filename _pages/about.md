@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Brief Biography"   # this makes the big header at the top
 permalink: /
 author_profile: true
 redirect_from: 
