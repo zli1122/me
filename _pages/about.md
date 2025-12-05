@@ -6,7 +6,7 @@ My research focuses on cybersecurity, hardware security, cryptography, and priva
 ## Education
 
 - Ph.D. in Computer Science, Old Dominion University, USA, 2023 (advised by [Dr. Danella Zhao](https://ece.engineering.arizona.edu/faculty-staff/faculty/danella-zhao))  
-- B.S. in Mechanical Engineering, Southwest Jiaotong University, China, 2014
+- B.S. in Mechanical Engineering, Southwest Jiaotong University, China, 2010
 
 ## Selected Publications
 
