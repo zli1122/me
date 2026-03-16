@@ -17,8 +17,11 @@ My research focuses on hardware security, privacy-preserving machine learning, a
 
 # Selected Publications
 -![DAC 26](https://img.shields.io/badge/DAC-26-blue) **Z. Li**, H. T. Asl, Y. Cai, E. Nouri and D. Zhao, “TAMI-MPC: Trusted Acceleration of Minimal-Interaction MPC for Efficient Nonlinear Inference,” *Design Automation Conference*, 2026.
+
 -![ASP-DAC 26](https://img.shields.io/badge/ASP--DAC-26-blue) **Z. Li**, H. T. Asl, E. Nouri, Y. Cai and D. Zhao, “SilentFlow: Leveraging Trusted Execution for Resource-Limited MPC via Hardware–Algorithm Co-design,” *Asia and South Pacific Design Automation Conference*, 2026.
+
 -![ASP-DAC 24](https://img.shields.io/badge/ASP--DAC-24-blue) **Z. Li** and D. Zhao, “DeepIncept: Diversify Performance Counters with Deep Learning to Detect Malware,” *Asia and South Pacific Design Automation Conference*, 2024.
+
 -![DATE 22](https://img.shields.io/badge/DATE-22-blue) **Z. Li** and D. Zhao, “ThingNet: A Lightweight Real-time Mirai IoT Variants Hunter through CPU Power Fingerprinting,” *Design, Automation & Test in Europe Conference & Exhibition*, 2022.
 
 # Collaborated Publications
