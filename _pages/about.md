@@ -16,10 +16,10 @@ My research focuses on hardware security, privacy-preserving machine learning, a
 - B.S. in Mechanical Engineering, Southwest Jiaotong University, China, 2010
 
 # Selected Publications
-- **[DAC ’26]** **Z. Li**, H. T. Asl, Y. Cai, E. Nouri and D. Zhao, “TAMI-MPC: Trusted Acceleration of Minimal-Interaction MPC for Efficient Nonlinear Inference,” _Design Automation Conference_, 2026.
-- **[ASP-DAC ’26]** **Z. Li**, H. T. Asl, E. Nouri, Y. Cai and D. Zhao, “SilentFlow: Leveraging Trusted Execution for Resource-Limited MPC via Hardware–Algorithm Co-design,” _Asia and South Pacific Design Automation Conference_, 2026.
-- **[ASP-DAC ’24]** **Z. Li** and D. Zhao, “DeepIncept: Diversify Performance Counters with Deep Learning to Detect Malware,” _Asia and South Pacific Design Automation Conference_, 2024.
-- **[DATE ’22]** **Z. Li** and D. Zhao, “ThingNet: A Lightweight Real-time Mirai IoT Variants Hunter through CPU Power Fingerprinting,” _Design, Automation & Test in Europe Conference & Exhibition_, 2022.
+-![DAC 26](https://img.shields.io/badge/DAC-26-blue) **Z. Li**, H. T. Asl, Y. Cai, E. Nouri and D. Zhao, “TAMI-MPC: Trusted Acceleration of Minimal-Interaction MPC for Efficient Nonlinear Inference,” *Design Automation Conference*, 2026.
+-![ASP-DAC 26](https://img.shields.io/badge/ASP--DAC-26-blue) **Z. Li**, H. T. Asl, E. Nouri, Y. Cai and D. Zhao, “SilentFlow: Leveraging Trusted Execution for Resource-Limited MPC via Hardware–Algorithm Co-design,” *Asia and South Pacific Design Automation Conference*, 2026.
+-![ASP-DAC 24](https://img.shields.io/badge/ASP--DAC-24-blue) **Z. Li** and D. Zhao, “DeepIncept: Diversify Performance Counters with Deep Learning to Detect Malware,” *Asia and South Pacific Design Automation Conference*, 2024.
+-![DATE 22](https://img.shields.io/badge/DATE-22-blue) **Z. Li** and D. Zhao, “ThingNet: A Lightweight Real-time Mirai IoT Variants Hunter through CPU Power Fingerprinting,” *Design, Automation & Test in Europe Conference & Exhibition*, 2022.
 
 # Collaborated Publications
 - **[Euro S&P ’26]** Y. Cai, **Z. Li**, Y. Feng, Q. Zhang, H. Wu, D. Zhao, C. Xin, “SecDTD: Dynamic Token Drop for Secure Transformers Inference,” _European Symposium on Security and Privacy_, 2026.
