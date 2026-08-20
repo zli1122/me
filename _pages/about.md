@@ -29,4 +29,4 @@ My research focuses on hardware security, privacy-preserving machine learning, a
 
 # Teaching
 
-SIE 370 Embedded Computer System (Fall 2025/Spring 2026, University of Arizona)
+SIE 370 Embedded Computer System (Fall 2025 - present, University of Arizona)
